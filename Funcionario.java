@@ -83,7 +83,7 @@ public class Funcionario {
     }
 
     public float calculaSalarioLiquido() {
-        return salario * 0.89f; // Descontando 11% do INSS
+        return salario * 0.89f; 
     }
 
     public String toString() {
